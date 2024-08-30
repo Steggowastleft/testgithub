@@ -1,7 +1,9 @@
 testing GitHub kita coba Bersama
-<<<<<<< Updated upstream
+agksajhskajhskahjsajhsakjshnsjhksdjhskdjh
+test
 test
 salam pramuka
+<<<<<<< HEAD
 <<<<<<< HEAD
 hallo
 =======
@@ -11,3 +13,10 @@ salam
 >>>>>>> Stashed changes
 >>>>>>> ffd14035c31ba5ffdf341d9d77791fd97bb5f481
 fadil 3 periode
+=======
+
+kawokwoakokawkwookaokaw
+salam
+hjhj
+
+>>>>>>> 5b940dd8e73524fa5af58fab054932676babbaea
