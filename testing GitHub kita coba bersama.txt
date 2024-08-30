@@ -16,7 +16,14 @@ fadil 3 periode
 =======
 
 kawokwoakokawkwookaokaw
+<<<<<<< HEAD
 salam
 hjhj
 
 >>>>>>> 5b940dd8e73524fa5af58fab054932676babbaea
+=======
+salam popo
+polije
+Blok M lekk
+POLIYEAYY SLEBEW
+>>>>>>> 68d05e094c555c727f5b8c5c9a117e9983261495
