@@ -1,3 +1,7 @@
 testing GitHub kita coba Bersama
+<<<<<<< Updated upstream
 test
 salam pramuka
+=======
+kawokwoakokawkwookaokaw
+>>>>>>> Stashed changes
